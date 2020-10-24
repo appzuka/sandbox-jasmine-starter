@@ -1,2 +1,3 @@
 # sandbox-jasmine-starter
-Created with CodeSandbox
+
+A demo of the simple use of jasmine
